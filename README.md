@@ -13,4 +13,6 @@ Overall, I found that Python and JavaScript were the most commonly used programm
 
 If you're interested in learning more about my Capstone Project, please feel free to reach out! I'd be happy to chat and answer any questions you might have. Thanks for your support! 🙏
 
-[Coursera Data Analyst Certificate.pdf](https://github.com/sdhnr/IBM_Data_Analyst_Capstone_Project/files/11204270/Coursera.Data.Analyst.Certificate.pdf)
+
+![image](https://user-images.githubusercontent.com/109834101/231270869-3b1f9070-164d-4e2f-9fa1-a4d3a36dc46f.png)
+
